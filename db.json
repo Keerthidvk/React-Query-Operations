@@ -1,0 +1,703 @@
+{
+  "crud": [
+    {
+      "id": 1,
+      "title": "Introduction to Full Stack Development",
+      "body": "Exploring the roles of frontend and backend in web application"
+    },
+    {
+      "id": 2,
+      "title": "Frontend ",
+      "body": "Understanding, CSS, and JavaScript in frontend development"
+    },
+    {
+      "id": 3,
+      "title": "Backend ",
+      "body": "Introduction to logic and databases"
+    },
+    {
+      "title": "Introduction to machine learning",
+      "body": "Exploring concepts of classification and regression",
+      "id": 5
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Introduction to Full Stack Development",
+      "body": "Exploring the roles of frontend and backend in web application"
+    },
+    {
+      "id": 2,
+      "title": "Frontend Basics",
+      "body": "Understanding HTML, CSS, and JavaScript in frontend development"
+    },
+    {
+      "id": 3,
+      "title": "Backend Essentials",
+      "body": "Introduction to server-side logic and databases"
+    },
+    {
+      "id": 4,
+      "title": "RESTful APIs",
+      "body": "How frontend communicates with backend using REST APIs"
+    },
+    {
+      "id": 5,
+      "title": "Database Integration",
+      "body": "Connecting web apps to databases like MySQL or MongoDB"
+    },
+    {
+      "id": 6,
+      "title": "Frontend Frameworks",
+      "body": "Overview of React, Angular, and Vue.js"
+    },
+    {
+      "id": 7,
+      "title": "Backend Frameworks",
+      "body": "Using Express.js, Django, or Spring Boot in backend development"
+    },
+    {
+      "id": 8,
+      "title": "Authentication",
+      "body": "Implementing user login and security features"
+    },
+    {
+      "id": 9,
+      "title": "Deployment",
+      "body": "Deploying full stack applications using cloud platforms"
+    },
+    {
+      "id": 10,
+      "title": "Version Control",
+      "body": "Using Git and GitHub for source code management"
+    },
+    {
+      "id": 11,
+      "title": "DevOps Basics",
+      "body": "CI/CD pipelines and automation tools"
+    },
+    {
+      "id": 12,
+      "title": "Testing",
+      "body": "Writing and running frontend and backend tests"
+    },
+    {
+      "id": 13,
+      "title": "Responsive Design",
+      "body": "Creating web apps that work on all devices"
+    },
+    {
+      "id": 14,
+      "title": "Performance Optimization",
+      "body": "Improving speed and efficiency of full stack applications"
+    },
+    {
+      "id": 15,
+      "title": "Career in Full Stack",
+      "body": "Roles, responsibilities, and job opportunities"
+    }
+  ],
+  "items": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "color": "Red",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "2",
+      "name": "Banana",
+      "color": "Yellow",
+      "vitamin": "Vitamin B6"
+    },
+    {
+      "id": "3",
+      "name": "Carrot",
+      "color": "Orange",
+      "vitamin": "Vitamin A"
+    },
+    {
+      "id": "4",
+      "name": "Blueberry",
+      "color": "Blue",
+      "vitamin": "Vitamin K"
+    },
+    {
+      "id": "5",
+      "name": "Spinach",
+      "color": "Green",
+      "vitamin": "Vitamin K"
+    },
+    {
+      "id": "6",
+      "name": "Orange",
+      "color": "Orange",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "7",
+      "name": "Tomato",
+      "color": "Red",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "8",
+      "name": "Grapes",
+      "color": "Purple",
+      "vitamin": "Vitamin K"
+    },
+    {
+      "id": "9",
+      "name": "Kiwi",
+      "color": "Green",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "10",
+      "name": "Strawberry",
+      "color": "Red",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "11",
+      "name": "Pineapple",
+      "color": "Yellow",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "12",
+      "name": "Avocado",
+      "color": "Green",
+      "vitamin": "Vitamin E"
+    },
+    {
+      "id": "13",
+      "name": "Mango",
+      "color": "Yellow",
+      "vitamin": "Vitamin A"
+    },
+    {
+      "id": "14",
+      "name": "Papaya",
+      "color": "Orange",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "15",
+      "name": "Cucumber",
+      "color": "Green",
+      "vitamin": "Vitamin K"
+    },
+    {
+      "id": "16",
+      "name": "Apple",
+      "color": "Red",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "17",
+      "name": "Banana",
+      "color": "Yellow",
+      "vitamin": "Vitamin B6"
+    },
+    {
+      "id": "18",
+      "name": "Carrot",
+      "color": "Orange",
+      "vitamin": "Vitamin A"
+    },
+    {
+      "id": "19",
+      "name": "Blueberry",
+      "color": "Blue",
+      "vitamin": "Vitamin K"
+    },
+    {
+      "id": "20",
+      "name": "Spinach",
+      "color": "Green",
+      "vitamin": "Vitamin K"
+    },
+    {
+      "id": "21",
+      "name": "Orange",
+      "color": "Orange",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "22",
+      "name": "Tomato",
+      "color": "Red",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "23",
+      "name": "Grapes",
+      "color": "Purple",
+      "vitamin": "Vitamin K"
+    },
+    {
+      "id": "24",
+      "name": "Kiwi",
+      "color": "Green",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "25",
+      "name": "Strawberry",
+      "color": "Red",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "26",
+      "name": "Pineapple",
+      "color": "Yellow",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "27",
+      "name": "Avocado",
+      "color": "Green",
+      "vitamin": "Vitamin E"
+    },
+    {
+      "id": "28",
+      "name": "Mango",
+      "color": "Yellow",
+      "vitamin": "Vitamin A"
+    },
+    {
+      "id": "29",
+      "name": "Papaya",
+      "color": "Orange",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "30",
+      "name": "Cucumber",
+      "color": "Green",
+      "vitamin": "Vitamin K"
+    },
+    {
+      "id": "31",
+      "name": "Apple",
+      "color": "Red",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "32",
+      "name": "Banana",
+      "color": "Yellow",
+      "vitamin": "Vitamin B6"
+    },
+    {
+      "id": "33",
+      "name": "Carrot",
+      "color": "Orange",
+      "vitamin": "Vitamin A"
+    },
+    {
+      "id": "34",
+      "name": "Blueberry",
+      "color": "Blue",
+      "vitamin": "Vitamin K"
+    },
+    {
+      "id": "35",
+      "name": "Spinach",
+      "color": "Green",
+      "vitamin": "Vitamin K"
+    },
+    {
+      "id": "36",
+      "name": "Orange",
+      "color": "Orange",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "37",
+      "name": "Tomato",
+      "color": "Red",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "38",
+      "name": "Grapes",
+      "color": "Purple",
+      "vitamin": "Vitamin K"
+    },
+    {
+      "id": "39",
+      "name": "Kiwi",
+      "color": "Green",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "40",
+      "name": "Strawberry",
+      "color": "Red",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "41",
+      "name": "Pineapple",
+      "color": "Yellow",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "42",
+      "name": "Avocado",
+      "color": "Green",
+      "vitamin": "Vitamin E"
+    },
+    {
+      "id": "43",
+      "name": "Mango",
+      "color": "Yellow",
+      "vitamin": "Vitamin A"
+    },
+    {
+      "id": "44",
+      "name": "Papaya",
+      "color": "Orange",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "45",
+      "name": "Cucumber",
+      "color": "Green",
+      "vitamin": "Vitamin K"
+    },
+    {
+      "id": "46",
+      "name": "Apple",
+      "color": "Red",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "47",
+      "name": "Banana",
+      "color": "Yellow",
+      "vitamin": "Vitamin B6"
+    },
+    {
+      "id": "48",
+      "name": "Carrot",
+      "color": "Orange",
+      "vitamin": "Vitamin A"
+    },
+    {
+      "id": "49",
+      "name": "Blueberry",
+      "color": "Blue",
+      "vitamin": "Vitamin K"
+    },
+    {
+      "id": "50",
+      "name": "Spinach",
+      "color": "Green",
+      "vitamin": "Vitamin K"
+    },
+    {
+      "id": "51",
+      "name": "Orange",
+      "color": "Orange",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "52",
+      "name": "Tomato",
+      "color": "Red",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "53",
+      "name": "Grapes",
+      "color": "Purple",
+      "vitamin": "Vitamin K"
+    },
+    {
+      "id": "54",
+      "name": "Kiwi",
+      "color": "Green",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "55",
+      "name": "Strawberry",
+      "color": "Red",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "56",
+      "name": "Pineapple",
+      "color": "Yellow",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "57",
+      "name": "Avocado",
+      "color": "Green",
+      "vitamin": "Vitamin E"
+    },
+    {
+      "id": "58",
+      "name": "Mango",
+      "color": "Yellow",
+      "vitamin": "Vitamin A"
+    },
+    {
+      "id": "59",
+      "name": "Papaya",
+      "color": "Orange",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "60",
+      "name": "Cucumber",
+      "color": "Green",
+      "vitamin": "Vitamin K"
+    },
+    {
+      "id": "61",
+      "name": "Apple",
+      "color": "Red",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "62",
+      "name": "Banana",
+      "color": "Yellow",
+      "vitamin": "Vitamin B6"
+    },
+    {
+      "id": "63",
+      "name": "Carrot",
+      "color": "Orange",
+      "vitamin": "Vitamin A"
+    },
+    {
+      "id": "64",
+      "name": "Blueberry",
+      "color": "Blue",
+      "vitamin": "Vitamin K"
+    },
+    {
+      "id": "65",
+      "name": "Spinach",
+      "color": "Green",
+      "vitamin": "Vitamin K"
+    },
+    {
+      "id": "66",
+      "name": "Orange",
+      "color": "Orange",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "67",
+      "name": "Tomato",
+      "color": "Red",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "68",
+      "name": "Grapes",
+      "color": "Purple",
+      "vitamin": "Vitamin K"
+    },
+    {
+      "id": "69",
+      "name": "Kiwi",
+      "color": "Green",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "70",
+      "name": "Strawberry",
+      "color": "Red",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "71",
+      "name": "Pineapple",
+      "color": "Yellow",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "72",
+      "name": "Avocado",
+      "color": "Green",
+      "vitamin": "Vitamin E"
+    },
+    {
+      "id": "73",
+      "name": "Mango",
+      "color": "Yellow",
+      "vitamin": "Vitamin A"
+    },
+    {
+      "id": "74",
+      "name": "Papaya",
+      "color": "Orange",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "75",
+      "name": "Cucumber",
+      "color": "Green",
+      "vitamin": "Vitamin K"
+    },
+    {
+      "id": "76",
+      "name": "Apple",
+      "color": "Red",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "77",
+      "name": "Banana",
+      "color": "Yellow",
+      "vitamin": "Vitamin B6"
+    },
+    {
+      "id": "78",
+      "name": "Carrot",
+      "color": "Orange",
+      "vitamin": "Vitamin A"
+    },
+    {
+      "id": "79",
+      "name": "Blueberry",
+      "color": "Blue",
+      "vitamin": "Vitamin K"
+    },
+    {
+      "id": "80",
+      "name": "Spinach",
+      "color": "Green",
+      "vitamin": "Vitamin K"
+    },
+    {
+      "id": "81",
+      "name": "Orange",
+      "color": "Orange",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "82",
+      "name": "Tomato",
+      "color": "Red",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "83",
+      "name": "Grapes",
+      "color": "Purple",
+      "vitamin": "Vitamin K"
+    },
+    {
+      "id": "84",
+      "name": "Kiwi",
+      "color": "Green",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "85",
+      "name": "Strawberry",
+      "color": "Red",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "86",
+      "name": "Pineapple",
+      "color": "Yellow",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "87",
+      "name": "Avocado",
+      "color": "Green",
+      "vitamin": "Vitamin E"
+    },
+    {
+      "id": "88",
+      "name": "Mango",
+      "color": "Yellow",
+      "vitamin": "Vitamin A"
+    },
+    {
+      "id": "89",
+      "name": "Papaya",
+      "color": "Orange",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "90",
+      "name": "Cucumber",
+      "color": "Green",
+      "vitamin": "Vitamin K"
+    },
+    {
+      "id": "91",
+      "name": "Apple",
+      "color": "Red",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "92",
+      "name": "Banana",
+      "color": "Yellow",
+      "vitamin": "Vitamin B6"
+    },
+    {
+      "id": "93",
+      "name": "Carrot",
+      "color": "Orange",
+      "vitamin": "Vitamin A"
+    },
+    {
+      "id": "94",
+      "name": "Blueberry",
+      "color": "Blue",
+      "vitamin": "Vitamin K"
+    },
+    {
+      "id": "95",
+      "name": "Spinach",
+      "color": "Green",
+      "vitamin": "Vitamin K"
+    },
+    {
+      "id": "96",
+      "name": "Orange",
+      "color": "Orange",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "97",
+      "name": "Tomato",
+      "color": "Red",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "98",
+      "name": "Grapes",
+      "color": "Purple",
+      "vitamin": "Vitamin K"
+    },
+    {
+      "id": "99",
+      "name": "Kiwi",
+      "color": "Green",
+      "vitamin": "Vitamin C"
+    },
+    {
+      "id": "100",
+      "name": "Strawberry",
+      "color": "Red",
+      "vitamin": "Vitamin C"
+    }
+  ]
+}

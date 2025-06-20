@@ -1,40 +1,12 @@
-📦 React Query Demo Suite
+# React + Vite
 
-This project is a comprehensive demonstration of various React Query data fetching patterns and strategies using `@tanstack/react-query`. It showcases how to manage asynchronous data in React using regular fetch, paginated queries, infinite scrolling, manual refetching, and more.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
----
+Currently, two official plugins are available:
 
-🚀 Features
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-- ✅ Regular Fetch using Axios
-- ⚡ React Query Fetching
-- 🔄 Fetch by Click (Manual Refetch)
-- 🔢 Paginated Queries
-- ♾️ Infinite Scrolling
-- 🔍 Fetch by ID using Route Parameters
-- 📜 Scroll-Based Infinite Loading (using `react-intersection-observer`)
-- 🔁 `useQueries` Demo (Multiple parallel queries)
-- ✨ Fully Navigable with React Router
+## Expanding the ESLint configuration
 
----
-
-🛠️ Tech Stack
-
-- React (with Functional Components & Hooks)
-- Axios – For making HTTP requests
-- React Router DOM – For client-side routing
-- @tanstack/react-query – For state and server cache management
-- JSON Server – Simulated backend (run on `localhost:3001`)
-- react-intersection-observer – For scroll detection
-
----
-Getting Started
-
-1. Install dependencies
-   npm install
-
-2. Run JSON Server
-   npm run json-server 
-
-3. Start React App
-   npm run dev
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
